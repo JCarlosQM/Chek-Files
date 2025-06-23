@@ -1,0 +1,7 @@
+.idx/
+.vscode/
+venvHash/
+/data/
+__pycache__/
+reports/
+Probate/
