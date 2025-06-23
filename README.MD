@@ -35,7 +35,10 @@ Permite detectar cambios, eliminaciones o adiciones en los archivos de una carpe
     ```bash
     python main.py
     ```
-
+4. El script creará de forma automática dentro de **core** donde se tendrá los hashes originales:
+    ```bash
+    data/file_hashes.json
+    ```
 ---
 
 ## 📋 Menú principal
